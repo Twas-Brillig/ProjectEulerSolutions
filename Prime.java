@@ -1,3 +1,6 @@
+/**
+Project Euler problem 1 solution
+**/
 public class Prime {
   public static void main(String[] args) {
     int sum = 0;
